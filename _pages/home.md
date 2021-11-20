@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Z Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Z Lab at  University."
 sitemap: false
 permalink: /
 ---
