@@ -17,7 +17,9 @@ You can find the job openings here:
 
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an email at [laiz@ethz.ch](mailto:laiz@ethz.ch). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. 
 
-All applications should be officially submitted at 
+We look forward to receiving your application at the [online application system](https://pg.usthk.cn/prospective-students/admissions/Admission-to-Hong-Kong-Campus/online-application), and working together with you in
+the near future. The application deadline is 15 December 2021 (first round) and 1 March 2022 (second round).
+For further information, it is highly encouraged to discuss the opportunities directly with us at [laiz@ethz.ch](mailto:laiz@ethz.ch). State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates. 
+
 
