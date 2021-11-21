@@ -16,7 +16,7 @@ We are always looking for new group members with passion, talent, and grit!
 ### Past open positions
 
 You can find the job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/hkust_flyer.pdf),
+[Opening of PhD Students]({{ site.baseurl }}/downloads/hkust_flyer.pdf),
 
 
 ### Applications for PhD and Postdoc positions
