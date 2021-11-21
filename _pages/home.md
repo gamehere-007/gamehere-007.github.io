@@ -1,7 +1,7 @@
 ---
 title: "Z Lab - Home"
 layout: homelay
-excerpt: "Z Lab at University"
+excerpt: "Z Lab @ HKUST"
 sitemap: false
 permalink: /
 ---
