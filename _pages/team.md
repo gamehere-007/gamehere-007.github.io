@@ -74,3 +74,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+</div>
