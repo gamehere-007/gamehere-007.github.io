@@ -7,3 +7,13 @@
     display:  Mechanical Systems and Signal Processing (2019)
   highlight: 0
   news2:
+
+- title: "Structural identification with physics-informed neural ordinary differential equations"
+  image:
+  description:
+  authors:  Z Lai, C Mylonas, S Nagarajaiah, E Chatzi
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X21002686
+    display:  Journal of Sound and Vibration (2021)
+  highlight: 0
+  news2:
