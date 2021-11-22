@@ -8,6 +8,16 @@
   highlight: 0
   news2:
 
+- title: "Full-field structural monitoring using event cameras and physics-informed sparse identification"
+  image:
+  description:
+  authors:  Z Lai, I Alzugaray, M Chli, E Chatzi
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0888327020302910
+    display:  Mechanical Systems and Signal Processing (2020)
+  highlight: 0
+  news2:
+
 - title: "Structural identification with physics-informed neural ordinary differential equations"
   image:
   description:
