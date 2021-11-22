@@ -11,6 +11,8 @@ Coming Soon...
 
 # Selected Publications
 
+(For a full list of publications, go to [Google Scholar](https://scholar.google.ch/citations?user=LuwuuVQAAAAJ&hl=en&authuser=1)
+
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
