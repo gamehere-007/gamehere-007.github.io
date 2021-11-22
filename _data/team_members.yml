@@ -1,11 +1,11 @@
 - name: Zhilu Lai
-  photo: 
+  photo: ZL.jpg
   info: Assistant professor, started Sep 2022
-  email: 
+  email:
   number_educ: 2
   education1: PhD in Structural Engineering, <a href="https://www.rice.edu/">Rice University</a>
   education2: Postdoc at <a href="http://chatzi.ibk.ethz.ch/">The Chair of Structural Mechanics and Monitoring</a>, <a href="https://www.ethz.ch/en.html">ETH-Zurich</a>
-  
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
@@ -13,6 +13,3 @@
   number_educ: 0
   education1:
   education2:
-  
-  
-  
