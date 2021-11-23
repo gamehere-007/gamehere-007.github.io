@@ -18,6 +18,16 @@
   highlight: 0
   news2:
 
+- title: "Adjustable template stiffness device and SDOF nonlinear frequency response"
+  image:
+  description:
+  authors: Z Lai, T Sun, S Nagarajaiah
+  link:
+    url:  https://link.springer.com/article/10.1007/s11071-019-04871-4
+    display:  Nonlinear Dynamics (2019)
+  highlight: 0
+  news2:
+
 - title: "Full-field structural monitoring using event cameras and physics-informed sparse identification"
   image:
   description:
