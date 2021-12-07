@@ -38,16 +38,6 @@
   highlight: 0
   news2:
 
-- title: "Structural identification with physics-informed neural ordinary differential equations"
-  image:
-  description:
-  authors:  Z Lai, C Mylonas, S Nagarajaiah, E Chatzi
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0022460X21002686
-    display:  Journal of Sound and Vibration (2021)
-  highlight: 0
-  news2:
-
 - title: "Measurement of full-field displacement time history of a vibrating continuous edge from video"
   image:
   description:
@@ -55,5 +45,15 @@
   link:
     url: https://doi.org/10.1016/j.ymssp.2020.106847
     display:  Mechanical Systems and Signal Processing (2020)
+  highlight: 0
+  news2:
+    
+- title: "Structural identification with physics-informed neural ordinary differential equations"
+  image:
+  description:
+  authors:  Z Lai, C Mylonas, S Nagarajaiah, E Chatzi
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X21002686
+    display:  Journal of Sound and Vibration (2021)
   highlight: 0
   news2:
