@@ -1,3 +1,13 @@
+- title: "Moving-window extended Kalman filter for structural damage detection with unknown process and measurement noises"
+  image:
+  description:
+  authors: Z. Lai, Y. Lei, S. Zhu, Y. Xu, X. Zhang, S. Krishnaswamy
+  link:
+    url: https://doi.org/10.1016/j.measurement.2016.04.016
+    display:  Measurement (2016)
+  highlight: 0
+  news2:
+
 - title: "Sparse structural system identification method for nonlinear dynamic systems with hysteresis/inelastic behavior"
   image:
   description:
@@ -47,7 +57,7 @@
     display:  Mechanical Systems and Signal Processing (2020)
   highlight: 0
   news2:
-    
+
 - title: "Structural identification with physics-informed neural ordinary differential equations"
   image:
   description:
