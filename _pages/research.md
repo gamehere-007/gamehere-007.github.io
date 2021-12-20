@@ -7,7 +7,9 @@ permalink: /research/
 ---
 
 # Research
-Coming Soon...
+* **Scientific Machine Learning for Dynamical Systems**
+
+
 
 # Selected Publications
 
