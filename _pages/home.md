@@ -9,10 +9,12 @@ permalink: /
 My name is Zhilu Lai, currently a Senior Assistant at ETH-Zurich and Singapore-ETH Centre. I will be joining [The Hong Kong University of Science and Technology](https://hkust.edu.hk/home) as a Tenure-Track Assistant Professor, starting from 09.2022. The research group (temporarily named "Z Lab"), based in the new [Guangzhou Campus](https://hkust-gz.edu.cn/).
 
 
-The advancements of sensing technology, data analytical techniques, and artificial intelligence have supported the development of tools and platforms for next-generation civil infrastructure and engineered systems, paving the way towards developing smart cities and cyber-physical systems. The group’s research works (including theoretical, analytical, and experimental studies) aim to develop the fusion of physical models and sensor data into the modeling, assessment, and diagnostics of engineered systems, and further providing intelligent solutions for effectuating more resilient, adaptive, and senseable infrastructure systems. Approaching this direction, the most recent research works are summarized into directions of:
-1.
-2.
-3.
+The advancements of sensing technology, data analytical techniques, and artificial intelligence have supported the development of tools and platforms for next-generation civil infrastructure and engineered systems, paving the way towards developing smart cities and cyber-physical systems. The group’s research works (including theoretical, analytical, and experimental studies) aim to develop the fusion of physical models and sensor data into the modeling, assessment, and diagnostics of engineered systems, and further providing intelligent solutions for effectuating more resilient, adaptive, and senseable infrastructure systems. Approaching this direction, the most recent research interest is summarized into the directions of:
+
+
+* physics-informed machine learning
+*
+*
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
