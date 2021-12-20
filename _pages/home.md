@@ -13,9 +13,9 @@ The advancements of sensing technology, data analytical techniques, and artifici
 
 
 * scientific machine learning; physics-informed machine learning
+* deep learning for engineered systems
 * computer vision based infrastructural monitoring; advanced sensing technologies
-* 
-
+ 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
