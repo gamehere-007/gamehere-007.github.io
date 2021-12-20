@@ -25,3 +25,7 @@ We are grateful for funding from HKUST(GZ)
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/HKUST-original_0.svg" style="width: 210px">
 </figure>
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/HKUST(GZ)_Logo.png" style="width: 210px">
+</figure>
