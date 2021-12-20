@@ -12,8 +12,8 @@ My name is Zhilu Lai, currently a Senior Assistant at ETH-Zurich and Singapore-E
 The advancements of sensing technology, data analytical techniques, and artificial intelligence have supported the development of tools and platforms for next-generation civil infrastructure and engineered systems, paving the way towards developing smart cities and cyber-physical systems. The group’s research works (including theoretical, analytical, and experimental studies) aim to develop the fusion of physical models and sensor data into the modeling, assessment, and diagnostics of engineered systems, and further providing intelligent solutions for effectuating more resilient, adaptive, and senseable infrastructure systems. Approaching this direction, the most recent research interest is summarized into the directions of:
 
 
-* physics-informed machine learning
-* sensing
+* scientific machine learning; physics-informed machine learning
+* computer vision based infrastructural monitoring; advanced sensing technologies
 * 
 
 
