@@ -13,8 +13,8 @@ The advancements of sensing technology, data analytical techniques, and artifici
 
 
 * physics-informed machine learning
-*
-*
+* sensing
+* 
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
