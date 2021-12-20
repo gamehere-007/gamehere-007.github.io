@@ -10,7 +10,7 @@ permalink: /research/
 * **Scientific Machine Learning for Dynamical Systems**
 
 
-* **Vision-based Sensing for  **
+* **Vision-based Sensing for Structural Monitoring**
 
 
 # Selected Publications
