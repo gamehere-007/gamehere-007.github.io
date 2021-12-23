@@ -11,7 +11,7 @@ permalink: /research/
 <!-- Faced with a fundamental shift in both complexity and volume of the data, scientists have been struggling in finding ways to automate both analyses, and possibly the interpretation of the datasets.  Machine Learning is a rapidly evolving field that has proven to be extremely efficient in solving challenges in multiple domains including signal processing, vision, self-driving, gaming, health and robotics. One may ask whether we can leverage the advances in machine learning and statistics for science. Our group specializes in applying and developing novel methods in machine learning on astrophysical challenges. -->
 
 
-Machine learning and deep learning are rapidly growing fields that 
+Machine learning and deep learning are rapidly growing fields that
 
 
 * **Vision-based Sensing for Structural Monitoring**
@@ -30,4 +30,4 @@ Machine learning and deep learning are rapidly growing fields that
 
 
 
-### ... and more.
+<!-- ### ... and more. -->
