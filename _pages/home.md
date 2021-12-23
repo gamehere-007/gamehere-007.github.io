@@ -17,7 +17,7 @@ The advancements of sensing technology, data analytical techniques, and artifici
 * computer vision based infrastructural monitoring; advanced sensing technologies
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** If you are interested in our group, please send your CV to [mailto](mailto:laiz@ethz.ch)
 
 
 We are grateful for funding from HKUST(GZ)
