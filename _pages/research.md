@@ -28,7 +28,7 @@ Machine learning and deep learning are rapidly growing fields that learn represe
 </p>
 
 
-**Relevant research:**
+**Relevant Research:**
 
 [[discovering governing equations]](https://www.sciencedirect.com/science/article/pii/S0888327018305727)
 [[structural damage detection]](https://doi.org/10.1002/stc.2306)
@@ -46,7 +46,7 @@ Sensing technologies have emerged as aided tools or solutions for continuously m
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/event.gif" alt="drawing" style="width: 85%;">
 </p> -->
 
-**Relevant research:**
+**Relevant Research:**
 
 [[full-field motion tracking via event-based cameras]](https://www.sciencedirect.com/science/article/pii/S0888327020302910)
 [[tracking continuous edge from videos]](https://doi.org/10.1016/j.ymssp.2020.106847)
@@ -55,7 +55,7 @@ Sensing technologies have emerged as aided tools or solutions for continuously m
 
 ---
 
-# Selected Publications
+# SELECTED PUBLICATIONS
 
 (For a full list of publications, go to [Google Scholar](https://scholar.google.ch/citations?user=LuwuuVQAAAAJ&hl=en&authuser=1))
 
