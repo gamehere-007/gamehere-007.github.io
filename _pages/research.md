@@ -25,6 +25,8 @@ Machine learning and deep learning are rapidly growing fields that learn represe
 [[discrepancy modeling via Neural ODEs]](https://www.sciencedirect.com/science/article/pii/S0022460X21002686)
 [[PgDMM]](https://arxiv.org/abs/2110.08607)
 
+---
+
 #### <font color="blue">Vision-based Sensing for Structural Monitoring </font>
 
 **Relevent research:**
