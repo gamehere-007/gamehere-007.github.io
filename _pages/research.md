@@ -22,7 +22,7 @@ Machine learning and deep learning are rapidly growing fields that learn represe
 [[discovering governing equations]](https://www.sciencedirect.com/science/article/pii/S0888327018305727)
 [[structural damage detection]](https://doi.org/10.1002/stc.2306)
 
-[[discrepany modeling via Neural ODEs]](https://www.sciencedirect.com/science/article/pii/S0022460X21002686)
+[[discrepancy modeling via Neural ODEs]](https://www.sciencedirect.com/science/article/pii/S0022460X21002686)
 [[PgDMM]](https://arxiv.org/abs/2110.08607)
 
 #### <font color="blue">Vision-based Sensing for Structural Monitoring </font>
