@@ -24,7 +24,7 @@ Machine learning and deep learning are rapidly growing fields that learn represe
 </figure> -->
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/intro.png" alt="drawing" style="width: 80%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/intro.png" alt="drawing" style="width: 85%;">
 </p>
 
 
