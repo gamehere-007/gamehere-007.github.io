@@ -25,6 +25,8 @@ Machine learning and deep learning are rapidly growing fields that learn represe
 
 * **Vision-based Sensing for Structural Monitoring**
 
+[[full-field motion tracking via event-based cameras]](https://www.sciencedirect.com/science/article/pii/S0888327020302910)
+[[tracing continuous edge from videos]](https://doi.org/10.1016/j.ymssp.2020.106847)
 
 # and more ...
 
