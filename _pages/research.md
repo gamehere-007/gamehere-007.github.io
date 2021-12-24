@@ -15,7 +15,7 @@ permalink: /research/
 
 Machine learning and deep learning are rapidly growing fields that learn representations of data via computational models, which have proven to successfully solve challenges in multiple domains. One emerging question is whether we can bridge the advanced in deep learning with engineering and science, where models are commonly derived based on physical laws. Our group is particularly interested in developing and applying novel approaches in machine learning/deep learning for challenges in dynamical systems and engineered systems.
 
-![alt text]({{ site.url }}{{ site.baseurl }}/images/respic/intro.png ){ width=50% }
+<!-- ![alt text]({{ site.url }}{{ site.baseurl }}/images/respic/intro.png ){ width=50% } -->
 
 
 
