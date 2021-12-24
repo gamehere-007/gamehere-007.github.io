@@ -13,15 +13,15 @@ permalink: /research/
 Machine learning and deep learning are rapidly growing fields that learn representations of data via computational models, which have proven to successfully solve challenges in multiple domains. One emerging question is whether we can bridge the advanced in deep learning with engineering and science, where models are commonly derived based on physical laws. Our group is particularly interested in developing and applying novel approaches in machine learning/deep learning for challenges in dynamical systems and engineered systems.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/intro.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/intro.png" style="width: 420px">
 </figure>
 
 
 **Relevent research:**
 
-[discovering governing equations](https://www.sciencedirect.com/science/article/pii/S0888327018305727)
-[discrepany modeling via Neural ODEs](https://www.sciencedirect.com/science/article/pii/S0022460X21002686)
-[PgDMM](https://arxiv.org/abs/2110.08607)
+[[discovering governing equations]](https://www.sciencedirect.com/science/article/pii/S0888327018305727)
+[[discrepany modeling via Neural ODEs]](https://www.sciencedirect.com/science/article/pii/S0022460X21002686)
+[[PgDMM]](https://arxiv.org/abs/2110.08607)
 
 * **Vision-based Sensing for Structural Monitoring**
 
