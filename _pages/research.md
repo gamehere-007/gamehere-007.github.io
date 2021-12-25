@@ -43,8 +43,7 @@ Machine learning and deep learning are rapidly growing fields that learn represe
 Sensing technologies have emerged as aided tools or solutions for continuously measuring data from systems either for the purpose of monitoring or characterization. In this direction, the group's research works have been exploiting the solutions for easily deployed, low costing, and data-efficient sensing.
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/event.gif" alt="drawing" style="width: 40%;">
-  &ensp
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/event.gif" alt="drawing" style="width: 40%;"> &nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/event2.png" alt="drawing" style="width: 55%;">
 </p>
 
