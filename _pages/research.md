@@ -40,7 +40,7 @@ Machine learning and deep learning are rapidly growing fields that learn represe
 
 #### **Vision-based Sensing for Structural Monitoring**
 
-Sensing technologies have emerged as aided tools or solutions for continuously measuring data from systems either for the purpose of monitoring or characterization. In this direction, the group's research works have been exploiting the solutions for easily deployed, low costing, and data-efficient sensing.
+Sensing technologies have emerged as aided tools or solutions for continuously measuring data from systems either for the purpose of monitoring or system characterization. In this direction, the group's research works have been exploiting the solutions for easily deployed, low costing, and data-efficient sensing.
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/event.gif" alt="drawing" style="width: 40%;"> &nbsp;
@@ -50,6 +50,7 @@ Sensing technologies have emerged as aided tools or solutions for continuously m
 **Relevant Research:**
 
 [[full-field motion tracking via event-based cameras]](https://www.sciencedirect.com/science/article/pii/S0888327020302910)
+
 [[tracking continuous edge from videos]](https://doi.org/10.1016/j.ymssp.2020.106847)
 
 #### **and more ...**
