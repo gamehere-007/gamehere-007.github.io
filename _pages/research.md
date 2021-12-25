@@ -53,7 +53,7 @@ Sensing technologies have emerged as aided tools or solutions for continuously m
 [[full-field motion tracking via event-based cameras]](https://www.sciencedirect.com/science/article/pii/S0888327020302910)
 [[tracking continuous edge from videos]](https://doi.org/10.1016/j.ymssp.2020.106847)
 
-#### <font color="black">and more ... </font>
+#### **and more ...**
 
 ---
 
