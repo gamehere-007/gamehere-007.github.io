@@ -44,8 +44,8 @@ Sensing technologies have emerged as aided tools or solutions for continuously m
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/event.gif" alt="drawing" style="width: 40%;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/event2.png" alt="drawing" style="width: 50%;">
-
+  &ensp
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/event2.png" alt="drawing" style="width: 55%;">
 </p>
 
 **Relevant Research:**
