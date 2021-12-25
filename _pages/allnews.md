@@ -1,5 +1,5 @@
 ---
-title: "NEWS"
+title: "News"
 layout: textlay
 excerpt: "Z Lab at HKUST"
 sitemap: false
