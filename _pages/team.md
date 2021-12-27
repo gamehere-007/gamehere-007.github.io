@@ -5,8 +5,6 @@ excerpt: "Z Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-<script src="https://kit.fontawesome.com/2f4768b4ef.js" crossorigin="anonymous"></script>
-
 # TEAM
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
