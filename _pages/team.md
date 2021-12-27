@@ -5,6 +5,7 @@ excerpt: "Z Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
+<script src="https://kit.fontawesome.com/2f4768b4ef.js" crossorigin="anonymous"></script>
 
 # TEAM
 
@@ -74,4 +75,3 @@ permalink: /team/
 {% endif %}
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-<script src="https://kit.fontawesome.com/2f4768b4ef.js" crossorigin="anonymous"></script>
