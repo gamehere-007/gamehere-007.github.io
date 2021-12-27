@@ -1,10 +1,41 @@
-- title: "Moving-window extended Kalman filter for structural damage detection with unknown process and measurement noises"
+- title: "Structural identification with physics-informed neural ordinary differential equations"
   image:
   description:
-  authors: Z. Lai, Y. Lei, S. Zhu, Y. Xu, X. Zhang, S. Krishnaswamy
+  authors:  Z Lai, C Mylonas, S Nagarajaiah, E Chatzi
   link:
-    url: https://doi.org/10.1016/j.measurement.2016.04.016
-    display:  Measurement (2016)
+    url: https://www.sciencedirect.com/science/article/pii/S0022460X21002686
+    display:  Journal of Sound and Vibration (2021)
+  highlight: 0
+  news2:
+
+- title: "Physics-guided Deep Markov Models for Learning Nonlinear Dynamical Systems with Uncertainty"
+  image:
+  description:
+  authors:  W Liu, Z Lai, K Bacsa, E Chatzi
+  link:
+    url: https://arxiv.org/abs/2110.08607
+    display:  arXiv preprint (2021)
+  highlight: 0
+  news2:
+
+
+- title: "Full-field structural monitoring using event cameras and physics-informed sparse identification"
+  image:
+  description:
+  authors:  Z Lai, I Alzugaray, M Chli, E Chatzi
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0888327020302910
+    display:  Mechanical Systems and Signal Processing (2020)
+  highlight: 0
+  news2:
+
+- title: "Measurement of full-field displacement time history of a vibrating continuous edge from video"
+  image:
+  description:
+  authors:  S Bhowmick, S Nagarajaiah, Z Lai
+  link:
+    url: https://doi.org/10.1016/j.ymssp.2020.106847
+    display:  Mechanical Systems and Signal Processing (2020)
   highlight: 0
   news2:
 
@@ -38,32 +69,12 @@
   highlight: 0
   news2:
 
-- title: "Full-field structural monitoring using event cameras and physics-informed sparse identification"
+- title: "Moving-window extended Kalman filter for structural damage detection with unknown process and measurement noises"
   image:
   description:
-  authors:  Z Lai, I Alzugaray, M Chli, E Chatzi
+  authors: Z. Lai, Y. Lei, S. Zhu, Y. Xu, X. Zhang, S. Krishnaswamy
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0888327020302910
-    display:  Mechanical Systems and Signal Processing (2020)
-  highlight: 0
-  news2:
-
-- title: "Measurement of full-field displacement time history of a vibrating continuous edge from video"
-  image:
-  description:
-  authors:  S Bhowmick, S Nagarajaiah, Z Lai
-  link:
-    url: https://doi.org/10.1016/j.ymssp.2020.106847
-    display:  Mechanical Systems and Signal Processing (2020)
-  highlight: 0
-  news2:
-
-- title: "Structural identification with physics-informed neural ordinary differential equations"
-  image:
-  description:
-  authors:  Z Lai, C Mylonas, S Nagarajaiah, E Chatzi
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0022460X21002686
-    display:  Journal of Sound and Vibration (2021)
+    url: https://doi.org/10.1016/j.measurement.2016.04.016
+    display:  Measurement (2016)
   highlight: 0
   news2:
