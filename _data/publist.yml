@@ -1,7 +1,7 @@
 - title: "Structural identification with physics-informed neural ordinary differential equations"
   image:
   description:
-  authors:  Z Lai, C Mylonas, S Nagarajaiah, E Chatzi
+  authors:  Z Lai<sup>*</sup>, C Mylonas, S Nagarajaiah, E Chatzi
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0022460X21002686
     display:  Journal of Sound and Vibration (2021)
@@ -11,13 +11,12 @@
 - title: "Physics-guided Deep Markov Models for Learning Nonlinear Dynamical Systems with Uncertainty"
   image:
   description:
-  authors:  W Liu, Z Lai, K Bacsa, E Chatzi
+  authors:  W Liu, Z Lai<sup>*</sup>, K Bacsa, E Chatzi
   link:
     url: https://arxiv.org/abs/2110.08607
     display:  arXiv preprint (2021)
   highlight: 0
   news2:
-
 
 - title: "Full-field structural monitoring using event cameras and physics-informed sparse identification"
   image:
