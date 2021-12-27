@@ -72,3 +72,5 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
