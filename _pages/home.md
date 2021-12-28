@@ -16,6 +16,7 @@ Approaching this direction, the relevant **research interest** is summarized int
 * scientific machine learning; physics-informed machine learning
 * deep learning for engineered systems
 * computer vision-based infrastructural monitoring; advanced sensing technologies
+* IoT applications in civil infrastructure
 * structural health monitoring
 
 
