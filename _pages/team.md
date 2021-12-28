@@ -73,4 +73,3 @@ permalink: /team/
 {% endif %}
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-<link href="{{ site.url }}{{ site.baseurl }}/fontawesome/css/all.css" rel="stylesheet">
