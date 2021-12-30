@@ -31,7 +31,9 @@ Machine learning and deep learning are rapidly growing fields that learn represe
 **Relevant Research:**
 
 [[discovering governing equations]](https://www.sciencedirect.com/science/article/pii/S0888327018305727)
-[[structural damage detection]](https://doi.org/10.1002/stc.2306)
+
+[[structural damage detection 1]](https://doi.org/10.1002/stc.2306)
+[[structural damage detection 2]](https://doi.org/10.1016/j.measurement.2016.04.016)
 
 [[discrepancy modeling via Neural ODEs]](https://www.sciencedirect.com/science/article/pii/S0022460X21002686)
 [[PgDMM]](https://arxiv.org/abs/2110.08607)
