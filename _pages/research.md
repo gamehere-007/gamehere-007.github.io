@@ -60,7 +60,6 @@ This research  investigates the possibility of shifting the sensing paradigm fro
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/MS.png" alt="drawing" style="width: 85%;">
 </p>
-
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/MS2.png" alt="drawing" style="width: 50%;">
 </p>
