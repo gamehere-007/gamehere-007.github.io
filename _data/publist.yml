@@ -1,7 +1,7 @@
 - title: "Structural identification with physics-informed neural ordinary differential equations"
   image:
   description:
-  authors:  Z Lai<sup>*</sup>, C Mylonas, S Nagarajaiah, E Chatzi
+  authors:  Z. Lai<sup>*</sup>, C. Mylonas, S. Nagarajaiah, E. Chatzi
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0022460X21002686
     display:  Journal of Sound and Vibration (2021)
@@ -11,7 +11,7 @@
 - title: "Physics-guided Deep Markov Models for Learning Nonlinear Dynamical Systems with Uncertainty"
   image:
   description:
-  authors:  W Liu, Z Lai<sup>*</sup>, K Bacsa, E Chatzi
+  authors:  W. Liu, Z. Lai<sup>*</sup>, K. Bacsa, E. Chatzi
   link:
     url: https://arxiv.org/abs/2110.08607
     display:  arXiv preprint (2021)
@@ -21,7 +21,7 @@
 - title: "Full-field structural monitoring using event cameras and physics-informed sparse identification"
   image:
   description:
-  authors:  Z Lai, I Alzugaray, M Chli, E Chatzi
+  authors:  Z. Lai, I. Alzugaray, M. Chli, E. Chatzi
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0888327020302910
     display:  Mechanical Systems and Signal Processing (2020)
@@ -31,7 +31,7 @@
 - title: "Measurement of full-field displacement time history of a vibrating continuous edge from video"
   image:
   description:
-  authors:  S Bhowmick, S Nagarajaiah, Z Lai
+  authors:  S. Bhowmick, S. Nagarajaiah, Z. Lai
   link:
     url: https://doi.org/10.1016/j.ymssp.2020.106847
     display:  Mechanical Systems and Signal Processing (2020)
@@ -41,7 +41,7 @@
 - title: "Sparse structural system identification method for nonlinear dynamic systems with hysteresis/inelastic behavior"
   image:
   description:
-  authors: Z Lai, S Nagarajaiah
+  authors: Z. Lai, S. Nagarajaiah
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0888327018305727
     display:  Mechanical Systems and Signal Processing (2019)
@@ -51,7 +51,7 @@
 - title: "Semi‐supervised structural linear/nonlinear damage detection and characterization using sparse identification"
   image:
   description:
-  authors: Z Lai, S Nagarajaiah
+  authors: Z. Lai, S. Nagarajaiah
   link:
     url:  https://doi.org/10.1002/stc.2306
     display:  Structural Control and Health Monitoring (2019)
@@ -61,7 +61,7 @@
 - title: "Adjustable template stiffness device and SDOF nonlinear frequency response"
   image:
   description:
-  authors: Z Lai, T Sun, S Nagarajaiah
+  authors: Z. Lai, T. Sun, S. Nagarajaiah
   link:
     url:  https://link.springer.com/article/10.1007/s11071-019-04871-4
     display:  Nonlinear Dynamics (2019)
