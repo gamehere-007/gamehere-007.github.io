@@ -53,7 +53,18 @@ Sensing technologies have emerged as aided tools or solutions for continuously m
 
 [[tracking continuous edge from videos]](https://doi.org/10.1016/j.ymssp.2020.106847)
 
-#### **and more ...**
+#### **Mobility Sensing (Ongoing)**
+
+This research  investigates the possibility of shifting the sensing paradigm from a stationary manner to a mobile manner, which has the potential of increasing the spatial resolution of sensing, and of benefiting city-scale sensing.
+
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/MS.png" alt="drawing" style="width: 85%;">
+</p>
+
+
+#### **and More...**
+
+
 
 ---
 
