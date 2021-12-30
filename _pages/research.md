@@ -55,12 +55,15 @@ Sensing technologies have emerged as aided tools or solutions for continuously m
 
 #### **Mobility Sensing (Ongoing)**
 
-This research  investigates the possibility of shifting the sensing paradigm from a stationary manner to a mobile manner, which has the potential of increasing the spatial resolution of sensing, and of benefiting city-scale sensing.
+This research  investigates the possibility of shifting the sensing paradigm from a stationary manner to a mobile manner, which has the potential of increasing the spatial resolution of sensing, and of benefiting the sensing for city-scale applications.
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/MS.png" alt="drawing" style="width: 85%;">
 </p>
 
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/MS2.png" alt="drawing" style="width: 50%;">
+</p>
 
 #### **and More...**
 
