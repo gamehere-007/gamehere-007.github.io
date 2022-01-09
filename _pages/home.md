@@ -20,7 +20,7 @@ Approaching this direction, the relevant **research interest** is summarized int
 * structural health monitoring
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** **If you are interested in our group, please send your CV to** [laiz@ethz.ch](mailto:laiz@ethz.ch)
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** **If you are interested in our group, please send your CV to** [zhilulai@ust.hk](mailto:zhilulai@ust.hk)
 
 
 We are grateful for funding from HKUST(GZ)
