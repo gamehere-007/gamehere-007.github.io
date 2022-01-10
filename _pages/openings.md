@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open Positions
 
-**Note: We currently have multiple PhD and postdoc positions.**
+**Note: We currently have multiple PhD and Postdoc positions.**
 
 <!-- We are always looking for new group members with passion, talent, and grit! -->
 
