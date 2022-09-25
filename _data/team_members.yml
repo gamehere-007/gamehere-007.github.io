@@ -2,16 +2,32 @@
    <a href="https://www.linkedin.com/in/zhilu-oscar-lai-079b0780/"><i class="fab fa-linkedin"></i></a> <a href ="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=1456535839495688192">
    [faculty page]</a>
   photo: ZL.jpg
-  info: Assistant professor (started 09.2022), IoT Thrust, Information Hub <br> Affiliated Assistant professor, Department of Civil and Environmental Engineering
+  info: Assistant professor, IoT Thrust, Information Hub <br> Affiliated Assistant professor, Department of Civil and Environmental Engineering
   email:
   number_educ: 2
   education1: Ph.D. in Structural Engineering, <a href="https://www.rice.edu/">Rice University</a>
   education2: Postdoc at <a href="http://chatzi.ibk.ethz.ch/">The Chair of Structural Mechanics and Monitoring, ETH-Z&uuml;rich</a>
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://zlaidyn.github.io/vacancies">openings</a> for more info
-  email: 
-  number_educ: 0
-  education1:
-  education2:
+- name: "GAN, Yujie (甘煜杰)"
+  photo:
+  info: Ph.D. Student (Fall 2022)
+  email:
+  number_educ: 2
+  education1: Central South University (B.S. in Civil Engineering)
+  education2: (M.S. in Civil Civil Engineering)
+
+- name: "Xuyao Yu (虞绪尧)"
+  photo: xuyao.jpg
+  info: Ph.D. Student (Fall 2022)
+  email:
+  number_educ: 2
+  education1: University of Electronic Science and Technology of China (B.S. in Communication Engineering)
+  educatiin2: co-supervisor: <a  href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=944"> Dr.Zijun Gong </a>
+
+- name: "Mingyuan Zhou (周明源)"
+  photo: mingyuan.jpg
+  info: Ph.D. Student (Fall 2022)
+  email:
+  number_educ: 2
+  education1: Beijing Jiaotong University (B.S. in Mechanical Engineering)
+  education2: Karlsruher Institut für Technologie (M.S. in Mechatronics and Information Technology)
