@@ -12,22 +12,24 @@
   photo: yujie.jpeg
   info: Ph.D. Student (Fall 2022)
   email:
-  number_educ: 2
+  number_educ: 3
   education1: Central South University, Monash University (B.S. in Civil Engineering)
   education2: Nanyang Technological University (M.S. in Civil Civil Engineering)
+  education3: research topics: structural digital twin
 
 - name: Xuyao Yu
   photo: xuyao.jpg
-  info: Ph.D. Student (Fall 2022)
+  info: Ph.D. Student (Fall 2022) <br> co-supervised with Dr. Zijun Gong
   email:
   number_educ: 2
   education1: University of Electronic Science and Technology of China (B.S. in Communication Engineering)
-  educatiin2: 
+  education2: research topics: sensing
 
 - name: Mingyuan Zhou
   photo: mingyuan.jpg
   info: Ph.D. Student (Fall 2022)
   email:
-  number_educ: 2
+  number_educ: 3
   education1: Beijing Jiaotong University (B.S. in Mechanical Engineering)
   education2: Karlsruher Institut f&uuml;r Technologie (M.S. in Mechatronics and Information Technology)
+  education3: research topics: AI+Engineering
