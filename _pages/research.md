@@ -74,7 +74,7 @@ This research  investigates the possibility of shifting the sensing paradigm fro
 
 ---
 
-# SELECTED PUBLICATIONS
+# PUBLICATIONS
 
 (For a full list of publications, go to [Google Scholar](https://scholar.google.ch/citations?user=LuwuuVQAAAAJ&hl=en&authuser=1))
 
