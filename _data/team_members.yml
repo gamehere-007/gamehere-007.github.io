@@ -10,7 +10,7 @@
 
 - name: "GAN, Yujie (甘煜杰)"
   photo: yujie.jpeg
-  info: Ph.D. Student (Fall 2022)
+  info: Ph.D. Student (Fall 2022) <br> research topics: structural digital twin
   email:
   number_educ: 2
   education1: Central South University/Monash University (B.S. in Civil Engineering)
@@ -18,7 +18,7 @@
 
 - name: "Xuyao Yu (虞绪尧)"
   photo: xuyao.jpg
-  info: Ph.D. Student (Fall 2022)
+  info: Ph.D. Student (Fall 2022) <br> research topics: sensing
   email:
   number_educ: 2
   education1: University of Electronic Science and Technology of China (B.S. in Communication Engineering)
@@ -26,7 +26,7 @@
 
 - name: "Mingyuan Zhou (周明源)"
   photo: mingyuan.jpg
-  info: Ph.D. Student (Fall 2022)
+  info: Ph.D. Student (Fall 2022) <br> research topics: AI+Engineering
   email:
   number_educ: 2
   education1: Beijing Jiaotong University (B.S. in Mechanical Engineering)
