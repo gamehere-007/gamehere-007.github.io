@@ -8,14 +8,14 @@
   education1: Ph.D. in Structural Engineering, <a href="https://www.rice.edu/">Rice University</a>
   education2: Postdoc at <a href="http://chatzi.ibk.ethz.ch/">The Chair of Structural Mechanics and Monitoring, ETH-Z&uuml;rich</a>
 
-- name: GAN, Yujie
+- name: Yujie Gan
   photo: yujie.jpeg
   info: Ph.D. Student (Fall 2022)
   email:
   number_educ: 3
   education1: Central South University, Monash University (B.S. in Civil Engineering)
   education2: Nanyang Technological University (M.S. in Civil Civil Engineering)
-  education3: research topics: structural digital twin
+  education3: research topics - structural digital twin
 
 - name: Xuyao Yu
   photo: xuyao.jpg
@@ -23,7 +23,7 @@
   email:
   number_educ: 2
   education1: University of Electronic Science and Technology of China (B.S. in Communication Engineering)
-  education2: research topics: sensing
+  education2: research topics - sensing
 
 - name: Mingyuan Zhou
   photo: mingyuan.jpg
@@ -32,4 +32,4 @@
   number_educ: 3
   education1: Beijing Jiaotong University (B.S. in Mechanical Engineering)
   education2: Karlsruher Institut f&uuml;r Technologie (M.S. in Mechatronics and Information Technology)
-  education3: research topics: AI+Engineering
+  education3: research topics - AI+Engineering
