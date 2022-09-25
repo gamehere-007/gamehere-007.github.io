@@ -8,6 +8,16 @@
   highlight: 0
   news2:
 
+- title: "A robust bridge weigh‐in‐motion algorithm based on regularized total least squares with axle constraints"
+  image:
+  description:
+  authors:  X. Jian, Z. Lai, Y. Xia, L .Sun
+  link:
+  url: https://arxiv.org/abs/2207.07883
+  display:  Structural Control and Health Monitoring (2022)
+  highlight: 0
+  news2:
+
 - title: "Physics-guided Deep Markov Models for Learning Nonlinear Dynamical Systems with Uncertainty"
   image:
   description:
