@@ -13,7 +13,7 @@ permalink: /vacancies
 <!-- We are always looking for new group members with passion, talent, and grit! -->
 
 You can find the job openings here:
-[Opening of PhD Students]({{ site.baseurl }}/downloads/hkust_flyer.pdf),
+[Opening of PhD Students]({{ site.baseurl }}/downloads/hkust_flyer.pdf)
 
 
 ### Applications for PhD Positions
