@@ -39,7 +39,7 @@
   info: Ph.D. Student (Fall 2022) <br> co-supervised with [Dr. Yun Bai](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai)
   email:
   number_educ: 1
-  education3: research topics - TBD
+  education1: research topics - TBD
   
  
 - name: Letian Yi
@@ -66,12 +66,12 @@
   email:
   number_educ: 2
   education1: B.S. in Mechatronics, Tongji University
-  education3: research topics - AI for Science
+  education2: research topics - AI for Science
   
 - name: Xunling Zhang
   photo: xuling.jpg
   info: M.Phil Student (Fall 2023) 
   email:
-  number_educ: 1
+  number_educ: 2
   education1: B.S. in Applied Math, South China University of Technology
   education2: research topics - motion capture and predication
