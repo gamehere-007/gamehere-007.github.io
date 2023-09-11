@@ -1,12 +1,12 @@
 ---
 title: "Z Lab - Home"
 layout: homelay
-excerpt: "Z Lab @ HKUST"
+excerpt: "Learning and Sensing for Dynamics Lab @ HKUST"
 sitemap: false
 permalink: /
 ---
 
-Welcome to the website of the research group led by Dr. Zhilu Lai at [IoT Thrust](https://infh.hkust-gz.edu.cn/en/academics/iot), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
+Welcome to the website of the research group led by Dr. Zhilu Lai at [Internet of Things Thrust](https://infh.hkust-gz.edu.cn/en/academics/iot), [Information Hub](https://infh.hkust-gz.edu.cn/en), [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/).
 
 The advancements of sensing technology, data mining, and artificial intelligence have accelerated the development of tools and platforms for next-generation civil infrastructure and engineered systems, paving the way towards developing smart cities and cyber-physical systems. The group’s research works (including theoretical, analytical, and experimental studies) aim to develop the fusion of physical models and sensor data into the modeling, assessment, and diagnostics of engineered systems, with providing intelligent solutions for effectuating more resilient, adaptive, and senseable infrastructure systems.
 
