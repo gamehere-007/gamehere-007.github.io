@@ -33,3 +33,29 @@
   education1: B.S. in Mechanical Engineering, Beijing Jiaotong University
   education2: M.S. in Mechatronics and Information Technology, Karlsruher Institut f&uuml;r Technologie
   education3: research topics - AI+Engineering
+  
+  - name: Letian Yi
+  photo: letian.jpg
+  info: Ph.D. Student (Fall 2023)
+  email:
+  number_educ: 3
+  education1: B.S. in Civil Engineering, Chongqing University
+  education2: M.S. in Civil Engineering, Southeast University
+  education3: research topics - Nonlinear Dynamics; machine learning for governing equation discovery
+  
+  - name: Siying Lu
+  photo: Siying.jpg
+  info: Ph.D. Student (Fall 2023)
+  email:
+  number_educ: 3
+  education1: B.S. in Civil Engineering, Central South University
+  education2: M.S. in Civil Engineering, Central South University
+  education3: research topics - Nonlinear Dynamics
+  
+  - name: Haoze Song
+  photo: haoze.jpg
+  info: Ph.D. Student (Fall 2023) <br> co-supervised with [Prof. Wei Wang](https://www.cse.ust.hk/~weiwcs)
+  email:
+  number_educ: 2
+  education1: B.S. in Mechatronics, Tongji University
+  education3: research topics - Nonlinear Dynamics
