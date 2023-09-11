@@ -34,7 +34,15 @@
   education2: M.S. in Mechatronics and Information Technology, Karlsruher Institut f&uuml;r Technologie
   education3: research topics - AI+Engineering
   
-  - name: Letian Yi
+- name: Ruohui Zhang
+  photo: ruohui.jpg
+  info: Ph.D. Student (Fall 2022) <br> co-supervised with [Dr. Yun Bai](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai)
+  email:
+  number_educ: 1
+  education3: research topics - TBD
+  
+ 
+- name: Letian Yi
   photo: letian.jpg
   info: Ph.D. Student (Fall 2023)
   email:
@@ -43,7 +51,7 @@
   education2: M.S. in Civil Engineering, Southeast University
   education3: research topics - Nonlinear Dynamics; machine learning for governing equation discovery
   
-  - name: Siying Lu
+- name: Siying Lu
   photo: Siying.jpg
   info: Ph.D. Student (Fall 2023)
   email:
@@ -52,10 +60,18 @@
   education2: M.S. in Civil Engineering, Central South University
   education3: research topics - Nonlinear Dynamics
   
-  - name: Haoze Song
+- name: Haoze Song
   photo: haoze.jpg
   info: Ph.D. Student (Fall 2023) <br> co-supervised with [Prof. Wei Wang](https://www.cse.ust.hk/~weiwcs)
   email:
   number_educ: 2
   education1: B.S. in Mechatronics, Tongji University
   education3: research topics - AI for Science
+  
+- name: Xunling Zhang
+  photo: xuling.jpg
+  info: M.Phil Student (Fall 2023) 
+  email:
+  number_educ: 1
+  education1: B.S. in Applied Math, South China University of Technology
+  education2: research topics - motion capture and predication
