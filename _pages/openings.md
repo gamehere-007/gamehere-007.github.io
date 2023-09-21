@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open Positions
 
-**Note: We currently have multiple Ph.D. positions for Fall 2023**
+**Note: We currently have multiple Ph.D. positions for Fall 2024**
 
 <!-- We are always looking for new group members with passion, talent, and grit! -->
 
