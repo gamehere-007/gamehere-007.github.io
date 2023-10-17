@@ -18,7 +18,7 @@ You can find the job openings here:
 
 ### Applications for PhD Positions
 
-We look forward to receiving your application at the [online application system](https://fytgs.hkust.edu.hk/admissions/Admission-to-Guangzhou-Campus/submitting-an-application/online-application-gz), and working together with you in
+We look forward to receiving your application at the [online application system](https://fytgs.hkust-gz.edu.cn/admissions/apply-now), and working together with you in
 the near future.
 
 For further information, it is highly encouraged to discuss the opportunities directly with us at [zhilulai@ust.hk](mailto:zhilulai@ust.hk). State briefly why you are interested and attach a CV. No need for a separate cover letter or certificates.
